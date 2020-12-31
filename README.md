@@ -15,5 +15,6 @@ There are "Tic Tac Toe Panels" that can be easily found in children's playground
 
 # Note 
 Enjoy the game :) 
+and there's a lot of other ways of programming it.
 
 
