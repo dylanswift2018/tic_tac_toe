@@ -9,4 +9,11 @@ First print reference of the game appears in Britain with the name "Noughts and 
 (1) The name "tic-tac-toe" is renamed from "Noughts and Crosses" in the 20th century USA, and is the earliest known game to display visuals on a video monitor.
 (2) Although Tic-tac-toe appear simplistic to play, it contains 138 terminal board positions and 255,168 possible ways these terminal board positions is obtained. 
 
+# Today 
+Tic-tac-toe is one of the first games to be played by children due to its fast setup and easy engagement.
+There are "Tic Tac Toe Panels" that can be easily found in children's playground or park all over the globe.
+
+# Note 
+Enjoy the game :) 
+
 
